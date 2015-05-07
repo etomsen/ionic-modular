@@ -1,0 +1,1556 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"login",
+				"LoginCtrl"
+			],
+			[
+				"clo",
+				"console"
+			],
+			[
+				"$roo",
+				"$rootScope	AngularJS"
+			],
+			[
+				"ion-na",
+				"ion-nav-bar	Ionic Extension"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"inon",
+				"ion-nav-buttons	Ionic Extension"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"new",
+				"newPassword"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"change",
+				"changePassword"
+			],
+			[
+				"next",
+				"nextAnimation"
+			],
+			[
+				"nex",
+				"nextAnimation"
+			],
+			[
+				"Bl",
+				"BluetoothState"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"stop",
+				"startProgress"
+			],
+			[
+				"B",
+				"BluetoothDevice"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"tim",
+				"timeout	setTimeout function"
+			],
+			[
+				"paired",
+				"pairedDevice"
+			],
+			[
+				"uuid",
+				"getUuids"
+			],
+			[
+				"time",
+				"timePromise"
+			],
+			[
+				"model",
+				"modelIdProperty"
+			],
+			[
+				"requ",
+				"requestOk"
+			],
+			[
+				"val",
+				"value	AngularJS"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"vl",
+				"value	AngularJS"
+			],
+			[
+				"redi",
+				"redirectToDevice"
+			],
+			[
+				"ch",
+				"checkDevice"
+			],
+			[
+				"mod",
+				"model"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"error",
+				"errorCode"
+			],
+			[
+				"getPa",
+				"getPatientUuid"
+			],
+			[
+				"getP",
+				"getPatientTitle"
+			],
+			[
+				"setPa",
+				"setPatientTitle"
+			],
+			[
+				"popu",
+				"popupCallback"
+			],
+			[
+				"pop",
+				"popupCallback"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"save",
+				"saveButton"
+			],
+			[
+				"show",
+				"showAnamnesis"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"can",
+				"canvasWidth"
+			],
+			[
+				"remove",
+				"removeData	.removeData()"
+			],
+			[
+				"tao-colo",
+				"tao-color-800"
+			],
+			[
+				"tao-color-",
+				"tao-color-700"
+			],
+			[
+				"da",
+				"dayClass"
+			],
+			[
+				"repl",
+				"replaceAll	.replaceAll()"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"patient",
+				"patientUuid"
+			],
+			[
+				"ta",
+				"tabPanel"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"va",
+				"value	AngularJS"
+			],
+			[
+				"addC",
+				"addCls"
+			],
+			[
+				"ca",
+				"callback"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tao",
+				"taotouch"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"barcode",
+				"barcodeScanner"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/scripts/MainCtrl.js",
+			"settings":
+			{
+				"buffer_size": 254,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 2234,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/shared/cryptojs.factory.js",
+			"settings":
+			{
+				"buffer_size": 497,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/index.html",
+			"settings":
+			{
+				"buffer_size": 2234,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/login/login.module.js",
+			"settings":
+			{
+				"buffer_size": 1066,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/app.js",
+			"settings":
+			{
+				"buffer_size": 1435,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"last_filter": "copy",
+		"selected_items":
+		[
+			[
+				"copy",
+				"File: Copy as Tag script"
+			],
+			[
+				"cop",
+				"File: Copy as Tag script"
+			],
+			[
+				"bower",
+				"Bower: Install"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"togglel",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"l",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"intsall",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/daubihe/prj/me/ionic-test-01",
+		"/Users/daubihe/prj/me/ionic-test-01/app",
+		"/Users/daubihe/prj/me/ionic-test-01/app/bower_components",
+		"/Users/daubihe/prj/me/ionic-test-01/app/bower_components/cryptojslib/components",
+		"/Users/daubihe/prj/me/ionic-test-01/app/scripts",
+		"/Users/daubihe/prj/me/ionic-test-01/app/scripts/intro",
+		"/Users/daubihe/prj/me/ionic-test-01/app/scripts/login",
+		"/Users/daubihe/prj/me/ionic-test-01/app/scripts/shared",
+		"/Users/daubihe/prj/me/ionic-test-01/app/templates",
+		"/Users/daubihe/prj/me/ionic-test-01/www",
+		"/Users/daubihe/prj/me/ionic-test-01/www/bower_components"
+	],
+	"file_history":
+	[
+		"/Users/daubihe/prj/me/ionic-test-01/app/scripts/shared/shared.module.js",
+		"/Users/daubihe/prj/me/ionic-test-01/app/scripts/shared/cryptojs.factory.js",
+		"/Users/daubihe/prj/me/ionic-test-01/app/scripts/intro/intro.module.js",
+		"/Users/daubihe/prj/me/ionic-test-01/app/scripts/shared/cryptojsFactory.js",
+		"/Users/daubihe/prj/me/ionic-test-01/bower.json",
+		"/Users/daubihe/prj/me/ionic-test-01/app/scripts/shared/SharedModule.js",
+		"/Users/daubihe/prj/me/ionic-test-01/app/bower_components/cryptojs/cryptojs.js",
+		"/Users/daubihe/prj/me/ionic-test-01/app/templates/menu.html",
+		"/Users/daubihe/prj/me/ionic-test-01/app/scripts/app.js",
+		"/Users/daubihe/prj/me/ionic-test-01/app/scripts/login/LoginModule.js",
+		"/Users/daubihe/prj/me/ionic-test-01/app/templates/intro.html",
+		"/Users/daubihe/prj/me/ionic-test-01/app/templates/login.html",
+		"/Users/daubihe/prj/me/ionic-test-01/app/index.html",
+		"/Users/daubihe/prj/me/ionic-test-01/app/styles/style.css",
+		"/Users/daubihe/prj/me/ionic-test-01/app/bower_components/ionic/demos/directive/sideMenus/navWithMenu/index.js",
+		"/Users/daubihe/prj/me/ionic-test-01/app/scripts/controllers.js",
+		"/Users/daubihe/prj/me/ionic-test-01/app/scripts/configuration.js",
+		"/Users/daubihe/prj/me/ionic-test-01/Gruntfile.js",
+		"/Users/daubihe/prj/me/my-ionic-project/www/index.html",
+		"/Users/daubihe/prj/me/my-ionic-project/app/scripts/controllers.js",
+		"/Users/daubihe/prj/me/my-ionic-project/app/templates/sessions.html",
+		"/Users/daubihe/prj/me/my-ionic-project/app/templates/session.html",
+		"/Users/daubihe/prj/me/my-ionic-project/app/js/app.js",
+		"/Users/daubihe/prj/me/my-ionic-project/app/js/controllers.js",
+		"/Users/daubihe/prj/me/ionic-tutorial/conference/www/index.html",
+		"/Users/daubihe/Desktop/2.html",
+		"/Users/daubihe/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/daubihe/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/daubihe/Downloads/site/glauben.html",
+		"/Users/daubihe/Downloads/site/index.html",
+		"/Users/daubihe/Downloads/site/project_page_somewhere.html",
+		"/Users/daubihe/Downloads/site/project_page_glasses.html",
+		"/Users/daubihe/Downloads/site/index.css",
+		"/Users/daubihe/Desktop/site/juliakamakova_website_stylesheet.css",
+		"/Users/daubihe/prj/edp/taotouch/app/controller/Login.js",
+		"/Users/daubihe/prj/edp/taotouch/app/view/Login.js",
+		"/Users/daubihe/prj/edp/taotouch/app/util/Lang.js",
+		"/Users/daubihe/prj/edp/taotouch/app/view/PatientClinical.js",
+		"/Users/daubihe/prj/edp/taotouch/app/model/Settings.js",
+		"/Users/daubihe/prj/edp/taotouch/app.js",
+		"/Users/daubihe/prj/edp/taotouch/app/store/MainMenu.js",
+		"/Users/daubihe/prj/edp/taotouch/resources/sass/taotouch.scss",
+		"/Users/daubihe/prj/edp/taotouch/app/view/Main.js",
+		"/Users/daubihe/prj/edp/taotouch/index.html",
+		"/Users/daubihe/prj/edp/taotouch/resources/css/taotouch.css",
+		"/Users/daubihe/prj/edp/taotouch/touch/sencha-touch-debug.js",
+		"/Users/daubihe/prj/edp/taotouch/touch/resources/themes/vendor/compass-recipes/stylesheets/recipes/shared/_pseudo-element.scss",
+		"/Users/daubihe/prj/edp/taotouch/touch/sencha-touch-all-debug.js",
+		"/Users/daubihe/prj/edp/taotouch/app/view/Taxcode.js",
+		"/Users/daubihe/prj/edp/taotouch/cordova/config.xml",
+		"/Users/daubihe/prj/edp/taotouch/.sencha/app/touch.properties",
+		"/Users/daubihe/prj/edp/taotouch/cordova/plugins/com.phonegap.plugins.barcodescanner/src/android/LibraryProject/src/com/google/zxing/oned/rss/expanded/decoders/AbstractExpandedDecoder.java",
+		"/Users/daubihe/prj/edp/taotouch/touch/sencha-touch-all.js",
+		"/Users/daubihe/prj/edp/taotouch/app/controller/Patient.js",
+		"/Users/daubihe/prj/edp/taotouch/touch/src/Container.js",
+		"/Users/daubihe/prj/edp/taotouch/cordova/plugins/com.phonegap.plugins.barcodescanner/src/android/LibraryProject/src/com/google/zxing/qrcode/detector/AlignmentPatternFinder.java",
+		"/Users/daubihe/prj/edp/taotouch/app/view/MainMenu.js",
+		"/Users/daubihe/prj/edp/taotouch/cordova/plugins/com.phonegap.plugins.barcodescanner/src/android/LibraryProject/src/com/google/zxing/client/result/EmailDoCoMoResultParser.java",
+		"/Users/daubihe/prj/edp/taotouch/app/view/Searchbar.js",
+		"/Users/daubihe/prj/edp/taotouch/app/store/Settings.js",
+		"/Users/daubihe/prj/edp/taotouch/app/util/Settings.js",
+		"/Users/daubihe/prj/edp/taotouch/cordova/plugins/com.phonegap.plugins.barcodescanner/src/android/LibraryProject/src/com/google/zxing/client/android/camera/open/GingerbreadOpenCameraInterface.java",
+		"/Users/daubihe/prj/edp/taotouch/app/controller/Device.js",
+		"/Users/daubihe/prj/edp/taotouch/app/util/BluetoothDevice.js",
+		"/Users/daubihe/prj/edp/taotouch/app/util/Cougcheck.js",
+		"/Users/daubihe/prj/edp/taotouch/app/view/Popup.js",
+		"/Users/daubihe/prj/edp/taotouch/app/view/Patient.js",
+		"/Users/daubihe/prj/edp/taotouch/touch/src/navigation/View.js",
+		"/Users/daubihe/prj/edp/taotouch/touch/src/Video.js",
+		"/Users/daubihe/prj/edp/taotouch/touch/version.txt",
+		"/Users/daubihe/prj/edp/taotouch/app/model/Device.js",
+		"/Users/daubihe/prj/edp/taotouch/app/view/Navbar.js",
+		"/Users/daubihe/prj/edp/taotouch/.sencha/app/development.properties",
+		"/Users/daubihe/prj/edp/taotouch/app/store/Device.js",
+		"/Users/daubihe/prj/edp/taotouch/touch/microloader/development.js",
+		"/Users/daubihe/prj/edp/taotouch/.sencha/app/package.properties",
+		"/Users/daubihe/prj/edp/taotouch/touch/src/dataview/component/DataItem.js",
+		"/Users/daubihe/prj/edp/taotouch/cordova/plugins/com.phonegap.plugins.barcodescanner/src/android/LibraryProject/src/com/google/zxing/client/android/common/executor/AsyncTaskExecInterface.java",
+		"/Users/daubihe/prj/edp/taotouch/cordova/platforms/android/CordovaLib/src/org/apache/cordova/AuthenticationToken.java",
+		"/Users/daubihe/prj/edp/taotouch/app/controller/Navigator.js",
+		"/Users/daubihe/prj/edp/taotouch/app/view/Anamnesisbar.js",
+		"/Users/daubihe/prj/edp/taotouch/touch/src/platform/src/data/proxies/SyncStorageProxy.js",
+		"/Users/daubihe/prj/edp/taotouch/cordova/plugins/com.phonegap.plugins.barcodescanner/src/android/LibraryProject/src/com/google/zxing/client/android/camera/open/DefaultOpenCameraInterface.java",
+		"/Users/daubihe/prj/edp/taotouch/touch/sencha-touch.js",
+		"/Users/daubihe/prj/edp/taotouch/cordova/plugins/com.megster.cordova.bluetoothserial/examples/LED/www/js/jquery-1.9.1.min.js",
+		"/Users/daubihe/prj/edp/taotouch/app/view/Progressbar.js",
+		"/Users/daubihe/prj/edp/taotouch/app/view/DevicePopup.js",
+		"/Users/daubihe/prj/edp/taotouch/cordova/plugins/com.phonegap.plugins.bluetooth/src/android/Pair.java",
+		"/Users/daubihe/prj/edp/taotouch/.sencha/app/packager-impl.xml",
+		"/Users/daubihe/prj/edp/taotouch/app/view/DeviceList.js",
+		"/Users/daubihe/prj/edp/taotouch/app/util/Helper.js",
+		"/Users/daubihe/prj/edp/taotouch/touch/src/app/History.js",
+		"/Users/daubihe/prj/edp/taotouch/cordova/plugins/com.phonegap.plugins.bluetooth/gruntfile.js",
+		"/Users/daubihe/prj/edp/taotouch/touch/src/device/Geolocation.js",
+		"/Users/daubihe/prj/edp/taotouch/cordova/plugins/com.phonegap.plugins.barcodescanner/src/android/LibraryProject/src/com/google/zxing/EncodeHintType.java",
+		"/Users/daubihe/prj/edp/taotouch/touch/src/Decorator.js",
+		"/Users/daubihe/prj/edp/taotouch/app/view/PatientProgress.js",
+		"/Users/daubihe/prj/edp/taotouch/touch/src/plugin/PullRefresh.js",
+		"/Users/daubihe/prj/edp/taotouch/cordova/plugins/com.phonegap.plugins.bluetooth/doc/Bluetooth.html",
+		"/Users/daubihe/prj/edp/taotouch/cordova/plugins/com.phonegap.plugins.bluetooth/www/bluetooth.js",
+		"/Users/daubihe/prj/edp/taotouch/bootstrap.js",
+		"/Users/daubihe/prj/edp/taotouch/app/view/ProgressPopup.js",
+		"/Users/daubihe/prj/edp/taotouch/cordova/plugins/org.apache.cordova.device/NOTICE",
+		"/Users/daubihe/prj/edp/taotouch/app/view/Anamnesis.js",
+		"/Users/daubihe/prj/edp/taotouch/touch/src/Evented.js",
+		"/Users/daubihe/prj/edp/taotouch/cordova/plugins/com.phonegap.plugins.barcodescanner/src/android/LibraryProject/src/com/google/zxing/oned/EAN8Reader.java",
+		"/Users/daubihe/prj/edp/taotouch/touch/src/data/Error.js",
+		"/Users/daubihe/prj/edp/taotouch/touch/src/Media.js",
+		"/Users/daubihe/prj/edp/taotouch/touch/src/MessageBox.js",
+		"/Users/daubihe/prj/edp/taotouch/app/controller/Home.js",
+		"/Users/daubihe/prj/coolmedia/companion/cordova/config.xml",
+		"/Users/daubihe/prj/coolmedia/companion/cordova.local.properties",
+		"/Users/daubihe/prj/coolmedia/companion/app/view/Home.js",
+		"/Users/daubihe/prj/coolmedia/companion/app/view/Main.js",
+		"/Users/daubihe/prj/coolmedia/companion/app/view/ContentList.js",
+		"/Users/daubihe/prj/coolmedia/companion/app/view/ContentThumb.js",
+		"/Users/daubihe/prj/coolmedia/companion/app/controller/Player.js",
+		"/Users/daubihe/prj/coolmedia/companion/app/util/Tivu.js",
+		"/Users/daubihe/prj/coolmedia/companion/app/store/ChannelList.js",
+		"/Users/daubihe/prj/coolmedia/companion/app/store/ChannelListHome.js",
+		"/Users/daubihe/prj/coolmedia/companion/app/store/ChannelListNN.js",
+		"/Users/daubihe/prj/coolmedia/companion/app/controller/Home.js",
+		"/Users/daubihe/prj/coolmedia/companion/app/util/Wcam.js",
+		"/Users/daubihe/prj/coolmedia/companion/cordova/platforms/android/assets/www/app.js",
+		"/Users/daubihe/prj/coolmedia/companion/cordova/platforms/ios/build/emulator/Companion.app/www/app.js",
+		"/Users/daubihe/prj/coolmedia/companion/cordova/platforms/ios/www/app.js",
+		"/Users/daubihe/prj/coolmedia/companion/cordova/www/app.js",
+		"/Users/daubihe/prj/coolmedia/companion/app/model/ChannelList.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"hashh",
+			"$ionicPlatform",
+			"SHA",
+			"SHA256",
+			"Base64",
+			"login()",
+			"AppCtrl",
+			"starter",
+			"configu",
+			"scripts",
+			"scripts/",
+			"js/app.js",
+			"js/",
+			"PlaylistsCtrl",
+			"app.js",
+			"ctrl+shift",
+			"only",
+			".jk-grid__row",
+			"beli",
+			"belie",
+			"jk-thumb",
+			"jk-navigation",
+			"flex",
+			"jk-navigation",
+			"big",
+			"jk-grid__cell",
+			"Roboto Condensed",
+			"jk-grid__cell",
+			"jk-grid__cell__caption",
+			"jk-grid__item",
+			"__caption",
+			"title-menu",
+			"one-line",
+			"multi",
+			"jk-grid__row",
+			"edit--",
+			"taotouch.confirm",
+			"tao-taxcode_",
+			"tao-taxcode__",
+			"tao-taxcode-",
+			"-edit",
+			"passwordField",
+			"passwordRepeatField",
+			"taotouch.control.Login.failed",
+			"complicazio",
+			"Complicazio",
+			"Complicanze",
+			"complicanze",
+			"taotouch.view.PatientClinical",
+			"compli",
+			"complican",
+			"complex",
+			"taotouch.control.Home.sessionExpired",
+			"sessione",
+			"sessione scaduta",
+			"taotouch.control.Home",
+			"checkSessionT",
+			"controlSessionT",
+			"controllSessionT",
+			"'serverUrl'",
+			".reset(",
+			".reset();",
+			"/reset",
+			"taotouch.util.Settings.get('",
+			"serverUrl",
+			"http://10.197.154.215:8080",
+			"'debug'",
+			"tao-login__edit--border-bottom",
+			".addCls(",
+			".addClass(",
+			"getCls",
+			"taotouch.control.Home",
+			"taotouch.util.Settings.get",
+			"msg",
+			"getAnimation",
+			"onAddViewCommand",
+			"addView",
+			"onAddViewCommand",
+			"nAddViewCommand: animation direction",
+			"animation =",
+			"getAnimation",
+			"showView",
+			"getAnimation",
+			"onAddViewCommand",
+			"addView",
+			"getAnimation",
+			"onAddRootViewCommand",
+			"onBackCommand",
+			": true",
+			"dataReadPromise",
+			"CAN",
+			"getHandshakeVTCRPromise",
+			"getHandShakePromise: timeout",
+			"Coug",
+			"coug",
+			"getHandshakeHelloPromise",
+			"onDeviceError",
+			"updateDevicePopupState",
+			"getHandShakePromise",
+			"getHandshakeHelloPromise",
+			"getHandshakeHelloPromise: rejected",
+			"onDeviceConnectCommand",
+			"pairDevicePromise",
+			"uuid",
+			"updateStatePromise",
+			"setBluetoothState",
+			"taotouch.util.BluetoothDevice.setBluetoothState: BluetoothState.Paired",
+			".uuid",
+			".uuid ",
+			"me.setPairedDevice(",
+			"setBluetoothState",
+			"tao-device-popup__footer",
+			"not",
+			"+",
+			"progressPadding",
+			"updateStatePromise",
+			"me.pairedDe",
+			"pairedDe",
+			"setPairedDevice",
+			"me.pairedDevice =",
+			"JSON.",
+			"JSON",
+			"get(",
+			".get",
+			".pairedDevice.get(",
+			"model.",
+			".get",
+			"model"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"number",
+			".numberr =",
+			"setNavbarTitle"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/scripts/MainCtrl.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1237,
+								1476
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/scripts/shared/cryptojs.factory.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/scripts/login/login.module.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								400,
+								400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/scripts/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								736,
+								911
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ionic-test-01.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app",
+				"app/scripts/app.js"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"lo",
+				"app/scripts/login/LoginModule.js"
+			],
+			[
+				"shared",
+				"app/scripts/shared/SharedModule.js"
+			],
+			[
+				"men",
+				"app/templates/menu.html"
+			],
+			[
+				"login",
+				"app/scripts/login/LoginModule.js"
+			],
+			[
+				"introm",
+				"app/scripts/intro/IntroModule.js"
+			],
+			[
+				"styl",
+				"app/styles/style.css"
+			],
+			[
+				"intro",
+				"app/scripts/intro/IntroModule.js"
+			],
+			[
+				"app.",
+				"app/js/app.js"
+			],
+			[
+				"controllers",
+				"www/js/controllers.js"
+			],
+			[
+				"css",
+				"juliakamakova_website_stylesheet.css"
+			],
+			[
+				"lang",
+				"app/util/Lang.js"
+			],
+			[
+				"rest",
+				"app/util/Rest.js"
+			],
+			[
+				"taoto",
+				"resources/sass/taotouch.scss"
+			],
+			[
+				"mainm",
+				"app/store/MainMenu.js"
+			],
+			[
+				"set",
+				"app/model/Settings.js"
+			],
+			[
+				"tao",
+				"resources/sass/taotouch.scss"
+			],
+			[
+				"ap",
+				"app.js"
+			],
+			[
+				"clini",
+				"app/view/PatientClinical.js"
+			],
+			[
+				"taot",
+				"resources/sass/taotouch.scss"
+			],
+			[
+				"taxcode",
+				"app/view/Taxcode.js"
+			],
+			[
+				"controll/",
+				"app/controller/Login.js"
+			],
+			[
+				"lan",
+				"app/util/Lang.js"
+			],
+			[
+				"sett",
+				"app/model/Settings.js"
+			],
+			[
+				"setting",
+				"app/util/Settings.js"
+			],
+			[
+				"settin",
+				"app/model/Settings.js"
+			],
+			[
+				"mainmen",
+				"app/store/MainMenu.js"
+			],
+			[
+				"view/",
+				"app/view/MainMenu.js"
+			],
+			[
+				"bdevice",
+				"app/util/BluetoothDevice.js"
+			],
+			[
+				"dev",
+				"app/controller/Device.js"
+			],
+			[
+				"patien",
+				"app/controller/Patient.js"
+			],
+			[
+				"na",
+				"app/controller/Navigator.js"
+			],
+			[
+				"device",
+				"app/controller/Device.js"
+			],
+			[
+				"navigat",
+				"app/controller/Navigator.js"
+			],
+			[
+				"atien",
+				"app/controller/Patient.js"
+			],
+			[
+				"nav",
+				"app/view/Navbar.js"
+			],
+			[
+				"anamn",
+				"app/view/Anamnesis.js"
+			],
+			[
+				"controller/",
+				"app/controller/Patient.js"
+			],
+			[
+				"helper",
+				"app/util/Helper.js"
+			],
+			[
+				"anam",
+				"app/view/Anamnesis.js"
+			],
+			[
+				"pro",
+				"app/view/Progressbar.js"
+			],
+			[
+				"popup",
+				"app/view/DevicePopup.js"
+			],
+			[
+				"progres",
+				"app/view/Progressbar.js"
+			],
+			[
+				"devicel",
+				"app/view/DeviceList.js"
+			],
+			[
+				"blu",
+				"app/util/BluetoothDevice.js"
+			],
+			[
+				"hel",
+				"app/util/Helper.js"
+			],
+			[
+				"blue",
+				"app/util/BluetoothDevice.js"
+			],
+			[
+				"devicep",
+				"app/view/DevicePopup.js"
+			],
+			[
+				"progre",
+				"app/view/Progressbar.js"
+			],
+			[
+				"progress",
+				"app/view/Progressbar.js"
+			],
+			[
+				"pop",
+				"app/view/Popup.js"
+			],
+			[
+				"app.js",
+				"app.js"
+			],
+			[
+				"coug",
+				"app/util/Cougcheck.js"
+			],
+			[
+				"con",
+				"cordova/config.xml"
+			],
+			[
+				"contentlist",
+				"app/view/ContentList.js"
+			],
+			[
+				"home",
+				"app/store/ChannelListHome.js"
+			],
+			[
+				"main",
+				"app/view/Main.js"
+			],
+			[
+				"mainme",
+				"app/view/MainMenu.js"
+			],
+			[
+				"contentli",
+				"app/view/ContentList.js"
+			],
+			[
+				"chann",
+				"app/store/ChannelList.js"
+			],
+			[
+				"channellist",
+				"app/model/ChannelList.js"
+			],
+			[
+				"store/",
+				"app/store/CategoryList.js"
+			],
+			[
+				"contentth",
+				"app/view/ContentThumb.js"
+			],
+			[
+				"channell",
+				"app/store/ChannelList.js"
+			],
+			[
+				"channellisthome",
+				"app/store/ChannelListHome.js"
+			],
+			[
+				"channellistnn",
+				"app/store/ChannelListNN.js"
+			],
+			[
+				"buils",
+				"build.sh"
+			],
+			[
+				"cordo",
+				"cordova.local.properties"
+			],
+			[
+				"prop",
+				"properties.json"
+			],
+			[
+				"plu",
+				"reset_plugins.sh"
+			],
+			[
+				"control/pa",
+				"app/controller/Patient.js"
+			],
+			[
+				"naviga",
+				"app/controller/Navigator.js"
+			],
+			[
+				"devi",
+				"app/model/Device.js"
+			],
+			[
+				"pati",
+				"app/controller/Patient.js"
+			],
+			[
+				"navi",
+				"app/controller/Navigator.js"
+			],
+			[
+				"patientl",
+				"app/view/PatientList.js"
+			],
+			[
+				"app.scss",
+				"resources/sass/app.scss"
+			],
+			[
+				"settings",
+				"app/model/Settings.js"
+			],
+			[
+				"navigator",
+				"app/controller/Navigator.js"
+			],
+			[
+				"anamne",
+				"app/view/Anamnesisbar.js"
+			],
+			[
+				"navba",
+				"app/view/Navbar.js"
+			],
+			[
+				"navb",
+				"app/view/Navbar.js"
+			],
+			[
+				"tao.",
+				"resources/sass/taotouch.scss"
+			],
+			[
+				"log",
+				"app/view/Login.js"
+			],
+			[
+				"app.sc",
+				"resources/sass/app.scss"
+			],
+			[
+				"app.css",
+				"resources/css/app.css"
+			],
+			[
+				"devce",
+				"app/controller/Device.js"
+			],
+			[
+				"",
+				"app.js"
+			],
+			[
+				"format",
+				"war/touch/src/util/Format.js"
+			],
+			[
+				"pa",
+				"app/controller/Patient.js"
+			],
+			[
+				"ta",
+				"resources/sass/taotouch.scss"
+			],
+			[
+				"patient",
+				"app/controller/Patient.js"
+			],
+			[
+				"navig",
+				"app/controller/Navigator.js"
+			],
+			[
+				"t",
+				"resources/sass/taotouch.scss"
+			],
+			[
+				"taxc",
+				"app/view/Taxcode.js"
+			],
+			[
+				"taxco",
+				"app/view/Taxcode.js"
+			],
+			[
+				"patientd",
+				"app/view/PatientDetails.js"
+			],
+			[
+				"patientde",
+				"app/view/PatientDetails.js"
+			],
+			[
+				"patientth",
+				"app/model/PatientTherapy.js"
+			],
+			[
+				"patientp",
+				"app/view/PatientProgress.js"
+			],
+			[
+				"patienth",
+				"app/view/PatientHistory.js"
+			],
+			[
+				"histo",
+				"app/view/PatientHistory.js"
+			],
+			[
+				"hist",
+				"touch/src/app/History.js"
+			],
+			[
+				"patint",
+				"app/controller/Patient.js"
+			],
+			[
+				"therap",
+				"app/model/PatientTherapy.js"
+			],
+			[
+				"palist",
+				"app/view/PatientList.js"
+			],
+			[
+				"navigato",
+				"app/controller/Navigator.js"
+			],
+			[
+				"ther",
+				"app/store/PatientTherapy.js"
+			],
+			[
+				"patienttherapy",
+				"app/store/PatientTherapy.js"
+			],
+			[
+				"history",
+				"app/view/PatientHistory.js"
+			],
+			[
+				"histor",
+				"app/view/PatientHistory.js"
+			],
+			[
+				"view/pa",
+				"app/view/Patient.js"
+			],
+			[
+				"patienthi",
+				"app/view/PatientHistory.js"
+			],
+			[
+				"controlpatient",
+				"app/controller/Patient.js"
+			],
+			[
+				"viewpatient",
+				"app/view/PatientList.js"
+			],
+			[
+				"navbar",
+				"app/view/Navbar.js"
+			],
+			[
+				"util/",
+				"app/util/Helper.js"
+			],
+			[
+				"clinical",
+				"app/view/PatientClinical.js"
+			],
+			[
+				"patie",
+				"app/view/PatientClinical.js"
+			],
+			[
+				"taotouc",
+				"resources/sass/taotouch.scss"
+			],
+			[
+				"patient.",
+				"app/view/Patient.js"
+			],
+			[
+				"patine",
+				"app/controller/Patient.js"
+			],
+			[
+				"model/pa",
+				"app/model/Patient.js"
+			],
+			[
+				"patinet",
+				"app/controller/Patient.js"
+			],
+			[
+				"ptie",
+				"app/view/PatientDetails.js"
+			],
+			[
+				"patiet",
+				"app/model/Patient.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 481.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

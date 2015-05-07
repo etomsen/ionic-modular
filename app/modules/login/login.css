@@ -1,0 +1,21 @@
+.etms-login {
+	background: #6e0033;
+	/*color-1: #6e0033*/
+	/*color-2: #8c8c8c*/
+	/*color-3: #d7d7d7*/
+}
+
+.etms-login::before {
+	content: "";
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	z-index: 0;
+	display: block;
+	background-image: url('../images/login__background.png');
+	background-repeat: repeat;
+    filter: opacity(0.4);
+    -webkit-filter: opacity(0.4);
+}

@@ -1,0 +1,18 @@
+{
+  "name": "IonicTest01",
+  "version": "0.0.0",
+  "dependencies": {
+    "ionic": "v1.0.0-beta.14",
+    "ngCordova": "0.1.12-alpha",
+    "cryptojslib": "~3.1.2",
+    "angular-local-store": "~0.2.2",
+    "angularjs-toaster": "~0.4.12"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.3.15",
+    "angular-scenario": "~1.3.6"
+  },
+  "resolutions": {
+    "angular": "1.3.6"
+  }
+}
