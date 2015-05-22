@@ -1,5 +1,38 @@
 <ion-view view-title="">
-	<ion-content class='etms-login'>
-		This is Login
+	<ion-content class='etms-login' scroll="false">
+		<div class="row" style="height: 100%; max-width: 400px; margin: auto;">
+  			<div class="col">
+				<div class="card">
+					<div class="item item-body">
+						<div class="text-center">
+							<h2>iCASH Mobile</h2>
+							<p>Use your credential to enter the system, or try the demo account.</p>
+						</div>
+					</div>
+					<div class="item" style="padding-top: 0; padding-bottom: 0;">
+						<div class="list">
+							<div class="padding" style="padding-left: 0!important; padding-right: 0!important; padding-top: 0!important;">
+								<label class="item item-input item-md-label item-md-label--etms-login" placeholder="Username" highlight-color="balanced" type="text">
+									<input type="text" ng-model="data.login"><span class="input-label" ng-hide="data.login">Username</span>
+									<div class="highlight highlight-positive"></div>
+									<div class="under-highlight"></div>
+								</label>
+								<label class="item item-input item-md-label item-md-label--etms-login" placeholder="Password" highlight-color="energized" type="password">
+									<input type="password" ng-model="data.password"><span class="input-label" ng-hide="data.password">Password</span>
+									<div class="highlight highlight-positive"></div>
+									<div class="under-highlight"></div>
+								</label>
+							</div>
+							<div class="padding" style="padding-left: 0!important; padding-right: 0!important;">
+            					<button class="button button-block button-positive waves-effect waves-button waves-light activated" ng-click="login()">Sign in</button>
+        					</div>
+						</div>
+					</div>
+					<div class="item text-center">
+						<button class="button button-clear button-stable" ng-click="loginDemo()">Don't have an account?</button>
+					</div>
+				</div>
+			</div>
+		</div>
 	</ion-content>
 </ion-view>

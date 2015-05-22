@@ -1,6 +1,6 @@
 (function(){
   'use strict';
-  angular.module('app.login', ['etomsen.router']);
+  angular.module('app.login', ['etomsen.router', 'restapi']);
 }());
 // (function(){
 //   'use strict';

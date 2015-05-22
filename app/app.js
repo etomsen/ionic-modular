@@ -24,7 +24,7 @@
 			var requireLogin = toState.data && toState.data.requireLogin;
     		if (requireLogin && !restapiUser.isLoggedIn()) {
       			event.preventDefault();
-      			login.waitLogin()
+      			login.waitLoginPromise()
       				.then(function () {
 						return $state.go(toState.name, toParams);
 					})

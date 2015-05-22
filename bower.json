@@ -6,7 +6,8 @@
     "ngCordova": "0.1.12-alpha",
     "cryptojslib": "~3.1.2",
     "angular-local-store": "~0.2.2",
-    "angularjs-toaster": "~0.4.12"
+    "angularjs-toaster": "~0.4.12",
+    "ionic-material": "https://github.com/zachsoft/Ionic-Material.git"
   },
   "devDependencies": {
     "angular-mocks": "~1.3.15",

@@ -9,4 +9,9 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <preference name="HideKeyboardFormAccessoryBar" value="true" />
+    <preference name="KeyboardShrinksView" value="false" />
+    <feature name="Keyboard">
+    	<param name="ios-package" value="IonicKeyboard" onload="true" />
+	</feature>
 </widget>

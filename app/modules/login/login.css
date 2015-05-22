@@ -16,6 +16,41 @@
 	display: block;
 	background-image: url('../images/login__background.png');
 	background-repeat: repeat;
-    filter: opacity(0.4);
-    -webkit-filter: opacity(0.4);
+    filter: opacity(0.2);
+    -webkit-filter: opacity(0.2);
+    background-size: 7%;
+}
+.no-side-padding {
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+.etms-login-color-0 {
+	color: #6e0033;
+}
+
+.etms-login-bg-color-0 {
+	background: #6e0033;
+}
+
+
+.item-md-label--etms-login .under-highlight {
+	position: absolute;
+    bottom: 0;
+    height: 1px;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    background: #d7d7d7;
+}
+
+.item-md-label--etms-login input {
+	background: #fff;
+	color: #000;
+}
+
+.item-md-label--etms-login .input-label {
+	color: #000;
+	/*letter-spacing: 0;*/
+	padding: 0 0 10px 0;
 }
